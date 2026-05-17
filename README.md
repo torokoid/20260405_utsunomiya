@@ -157,8 +157,16 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S.Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/04/05、桜ツーリング !!!</marquee></span></h1>
-
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/05/16、山口さん惜別ツーリング !!!</marquee></span></h1>
+<a href="20260516_101.JPG" target="_blank"><img src="20260516_101.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260516_102.JPG" target="_blank"><img src="20260516_102.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260516_103.JPG" target="_blank"><img src="20260516_103.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260516_104.JPG" target="_blank"><img src="20260516_104.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260516_105.JPG" target="_blank"><img src="20260516_105.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260516_106.JPG" target="_blank"><img src="20260516_106.JPG" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">以下動画、↓画像クリックで動画再生します</span></h2>
+<a href="https://youtube.com/shorts/ACoByL3pgEw?feature=share" target="_blank"><img src="20260516_107.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="https://youtube.com/shorts/bbR4TcAR0dk?feature=share" target="_blank"><img src="20260516_108.png" alt="サンプル画像" class="responsive-media"></a>
 
 
 
@@ -166,7 +174,7 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
     
-
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/04/05、桜ツーリング !!!</marquee></span></h1>
 <div class="media-container">
 
 <h2><span class="yellow">05,Apr,2026 桜ツーリング画像</span></h2>
